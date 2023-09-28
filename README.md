@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tuliotofani
 - 👀 I’m interested in game development and powerlifting
-- 🌱 I’m currently learning git, HTML e CSS
+- 🌱 Back-End Jr developer C#
 - 📫 How to reach me tuliotoff@gmail.com
 - I'm at [Linkedin](https://www.linkedin.com/in/tulio-tofani-85b7291ba/)
 
